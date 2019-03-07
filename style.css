@@ -1,0 +1,12 @@
+#kort{
+	position: absolute;
+	z-index: -1;
+}
+#countdown{
+	position: absolute;
+	margin-left:50%;
+}
+#container{
+	position: relative;
+	max-width: 640px;
+}
